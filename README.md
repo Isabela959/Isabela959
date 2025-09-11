@@ -9,7 +9,7 @@
 
 ### 🤖 Tecnologias que estou aprendendo
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,flutter" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,flutter,typescript,firebase,mongodb,angular,nestjs,nextjs,mysql" />
 </p>
 
 ---
