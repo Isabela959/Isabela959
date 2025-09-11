@@ -9,7 +9,7 @@
 
 ### 🚀 Tecnologias que estou aprendendo
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,flutter" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,flutter," />
 </p>
 
 ---
