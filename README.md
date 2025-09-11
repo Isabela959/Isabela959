@@ -1,9 +1,8 @@
-<h1 align="center">Oi 👋, eu sou a Isabela</h1>
+<h1 align="center">Olá, eu sou a Isabela</h1>
 
 <p align="center">
-  🌱 Estudante do 3º ano do Ensino Médio <br>
-  🎯 Focada em aprender <b>programação, design e informática criativa</b> <br>
-  📚 Estudando para o ENEM e vestibulares <br>
+  🌱 Estudante de Desenvolvimento de Sistemas<br>
+  📚 SENAI Luiz Varga <br>
 </p>
 
 ---
