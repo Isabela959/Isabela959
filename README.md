@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=120&section=header&animation=twinkling" align="center/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=120&section=header&animation=twinkling"/>
 
 <h1 align="center">✨ Olá, eu sou a Isabela ✨</h1>
 
@@ -19,16 +19,17 @@
 ### 📊 Estatísticas do GitHub
 <p align="center">
   <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=Isabela959&show_icons=true&theme=holi&rank_icon=github" 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=Isabela959&show_icons=true&rank_icon=github&title_color=800020&icon_color=800020&text_color=333&bg_color=fffafa"
     alt="Estatísticas do GitHub"
   />
   <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabela959&layout=donut&theme=holi"
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabela959&layout=donut&title_color=800020&text_color=333&bg_color=fffafa"
     alt="Linguagens mais usadas"
   />
 </p>
+
 
 ---
 
