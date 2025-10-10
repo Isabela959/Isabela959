@@ -32,6 +32,12 @@
 
 ---
 
+## 🐍 Minhas contribuições
+<p align="center">
+  <img src="https://github.com/Isabela959/Isabela959/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+
 ### 🌐 Conecte-se comigo
 <p align="center">
   <a href="https://www.linkedin.com/in/isabela-ramos-da-silva-730289371" target="_blank">
