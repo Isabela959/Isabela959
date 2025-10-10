@@ -1,10 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=120&section=header&animation=twinkling"/>
 
-<h1 align="center">Olá, eu sou a Isabela</h1>
+<h1 align="center">✨ Olá, eu sou a Isabela ✨</h1>
 
 <p align="center">
-  📒 Estudante de Desenvolvimento de Sistemas<br>
-  🏫 SENAI Luiz Varga <br>
+  📒 Estudante de <b>Desenvolvimento de Sistemas</b><br>
+  🏫 <b>SENAI Luiz Varga</b><br>
 </p>
 
 ---
@@ -17,23 +17,31 @@
 ---
 
 ### 📊 Estatísticas do GitHub
-
+<p align="center">
   <img 
-  height="200px"
-  style="padding-right: 10px"
-  src="https://github-readme-stats.vercel.app/api?username=Isabela959&show_icons=true&theme=holi&rank_icon=github" alt="stats"/>
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=Isabela959&show_icons=true&theme=holi&rank_icon=github" 
+    alt="Estatísticas do GitHub"
+  />
   <img 
-  height="200px"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabela959&layout=donut&theme=holi"/>
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabela959&layout=donut&theme=holi"
+    alt="Linguagens mais usadas"
+  />
+</p>
 
 ---
 
 ### 🌐 Conecte-se comigo
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/isabela-ramos-da-silva-730289371" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-  <a href="mailto:isabelaramosdasilva15@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+  <a href="https://www.linkedin.com/in/isabela-ramos-da-silva-730289371" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:isabelaramosdasilva15@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+  </a>
 </p>
 
 ---
 
- <img src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=120&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=120&section=footer&animation=twinkling"/>
