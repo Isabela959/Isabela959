@@ -20,12 +20,12 @@
 <p align="center">
   <img 
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Isabela959&show_icons=true&rank_icon=github&title_color=800020&icon_color=800020&text_color=333&bg_color=00000000"
+    src="https://github-readme-stats.vercel.app/api?username=Isabela959&show_icons=true&rank_icon=github&title_color=800020&icon_color=800020&text_color=f8f8f8&bg_color=00000000"
     alt="Estatísticas do GitHub"
   />
   <img 
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabela959&layout=donut&title_color=800020&text_color=333&bg_color=00000000"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabela959&layout=donut&title_color=800020&text_color=f8f8f8&bg_color=00000000"
     alt="Linguagens mais usadas"
   />
 </p>
