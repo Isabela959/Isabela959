@@ -35,12 +35,16 @@
 ### 🌐 Conecte-se comigo
 <p align="center">
   <a href="https://www.linkedin.com/in/isabela-ramos-da-silva-730289371" target="_blank">
-    <img width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" style="fill:#800020"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-800020?logo=linkedin&style=for-the-badge"/>
   </a>
   <a href="mailto:isabelaramosdasilva15@gmail.com">
-    <img width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" style="fill:#800020"/>
+    <img src="https://img.shields.io/badge/-Gmail-800020?logo=gmail&style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/Isabela959">
+    <img src="https://img.shields.io/badge/-GitHub-800020?logo=github&style=for-the-badge"/>
   </a>
 </p>
+
 
 ---
 
