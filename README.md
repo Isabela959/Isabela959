@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=722F37&height=120&section=header&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=120&section=header&animation=twinkling"/>
 
 <h1 align="center">Olá, eu sou a Isabela</h1>
 
