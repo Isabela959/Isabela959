@@ -20,7 +20,7 @@
 <p align="center">
   <img 
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Isabela959&show_icons=true&rank_icon=github&title_color=800020&icon_color=800020&text_color=333&bg_color=fffafa"
+    src="https://github-readme-stats.vercel.app/api?username=Isabela959&show_icons=true&rank_icon=github&title_color=800020&icon_color=800020&text_color=333"
     alt="Estatísticas do GitHub"
   />
   <img 
