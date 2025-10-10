@@ -48,7 +48,6 @@
 </p>
 
 <p align="center"> <img src="https://media4.giphy.com/media/7zi5Y6ex0ViRodY5sA/source.gif" width="400"/> </p>
-
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=120&section=footer&animation=twinkling"/>
