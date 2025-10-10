@@ -35,10 +35,10 @@
 ### 🌐 Conecte-se comigo
 <p align="center">
   <a href="https://www.linkedin.com/in/isabela-ramos-da-silva-730289371" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin&color=800020" alt="LinkedIn"/>
   </a>
   <a href="mailto:isabelaramosdasilva15@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail&color=800020" alt="Gmail"/>
   </a>
 </p>
 
