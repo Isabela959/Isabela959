@@ -25,7 +25,7 @@
   />
   <img 
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabela959&layout=donut&title_color=800020&text_color=333&bg_color=fffafa"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabela959&layout=donut&title_color=800020&text_color=333"
     alt="Linguagens mais usadas"
   />
 </p>
