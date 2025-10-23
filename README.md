@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=120&section=header&animation=twinkling"/>
 
-<h1 align="center">✨ Olá, eu sou a Isabela ✨</h1>
+<h1 align="center">Olá, eu sou a Isabela</h1>
 
 <p align="center">
   📒 Estudante de <b>Desenvolvimento de Sistemas</b><br>
