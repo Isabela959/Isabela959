@@ -51,9 +51,4 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdqMW4wN2NicXBuaTQwM3lmNGp3bHJnemJ0bXl0bWM2OWJjdDJ1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fUQ4rhUZJYiQsas6WD/giphy.gif" width="400"/>
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1000&pause=500&color=800020&center=true&vCenter=true&width=435&lines=Acabou!!!" alt="Typing SVG" />
-</h1>
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=120&section=footer&animation=twinkling"/>
