@@ -3,7 +3,7 @@
 <h1 align="center">Olá, eu sou a Isabela</h1>
 
 <p align="center">
-  📒 Estudante de <b>Desenvolvimento de Sistemas</b><br>
+  Estudante de <b>Desenvolvimento de Sistemas</b><br>
   🏫 <b>SENAI Luiz Varga</b><br>
 </p>
 
@@ -36,7 +36,7 @@
 
 ### 🌐 Conecte-se comigo
 <p align="center">
-  <a href="https://www.linkedin.com/in/isabela-ramos-da-silva-730289371" target="_blank">
+  <a href="https://www.linkedin.com/in/isabela-ramos-da-silva" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-800020?logo=linkedin&style=for-the-badge"/>
   </a>
   <a href="mailto:isabelaramosdasilva15@gmail.com">
